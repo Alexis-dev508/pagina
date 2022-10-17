@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+.nav-link{
+    font-family: 'Roboto Mono', monospace;
+}
+h2{
+    color: #9156AD;
+    font-family: 'Roboto Mono', monospace;
+}
+h3{
+   font-weight: bold;
+   letter-spacing: 2rem;
+   text-decoration: underline;
+}
+.h4{
+    text-orientation: sideways-right;
+}
+.galeria{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5rem;
+}
+.galeria div img{
+    width: 250px;
+    height: 300;
+    max-height: 20vh;
+}

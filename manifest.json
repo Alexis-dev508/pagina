@@ -1,0 +1,17 @@
+{
+    "name": "pagina",
+    "short_name": "pagina",
+    "theme_color":"#090a0f",
+    "background_color": "#090a0f",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons":[
+        {
+        "src": "./images/logo.png",
+        "type": "image/png",
+        "sizes": "443x443"
+    }
+]
+}
